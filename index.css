@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.variety
+{
+    inline-size: 230px;
+    overflow-wrap: break-word;
+}
